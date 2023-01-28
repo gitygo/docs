@@ -1,0 +1,17 @@
+seqirite demo points:
+	1. seqirite provides centralised managed security for your sytems(endpoints), ie laptops and desktops 
+	2. it has many features to help you monitor and secure your company's systems whether they are connected to your office 
+	network or are roaming outside
+	3. To use it we install a client agent in laptops/desktops we want secured
+	4. seqirite provides many features like:
+		* web filtering- to decide which websites will run on which systems
+		* application control - to select which applications will run on which systems
+		* asset management- to monitor both the hardware and software of company's system
+		* anti ransomware - it backups your data and encrypts it to protect it from ransomwares
+		* scans and tuneup can be scheduled arund the workday so as not to hamper it
+		* dlp- dlp helps you protect your sensitive data from being leaked from your systems
+		* all scans can also be scheduled so as to provide a workday without downtime 
+		* browsing and phishing protection - so you do not fall to one of the most common and effective attack
+			where hackers get you to click on an unsafe link or make you come to a dummy website which looks exactly 
+			like an authentic one where when you input your details hackers get that information to exploit eg your banking details.
+		

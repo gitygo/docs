@@ -1,0 +1,122 @@
+# Cloud
+  ## standard :
+	* antivirus
+	* anti-ransomware
+	* ids/ips
+	* firewall
+	* browsing protection
+	* email protection
+	* phishing protection
+	* vulnerability scan
+
+  ## Advanced
+	* standard + spam protection
+	* web filtering
+	* advanced device control
+	* application contol
+	
+  ## Premium:
+	* Advanced + tune up
+	* asset management
+
+
+
+# On premises
+  ## SME
+	* antivirus
+	* anit-ransomware
+	* ids/ips
+	* browsing protection
+	* email protection
+	* firewall
+	* phishing protection
+	* vulnerability scan
+
+  ## Business
+	* SME + asset management
+	* spam protection
+	* Advanced device control
+	* web filtering
+	
+  ## Total
+	* Buisiness + Application control
+	* patch management
+
+  ## Enterprise suite
+	TOTAL + DLP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eps on premises : 
+	a antivirus
+	b antiransomware
+	c ids/ips
+	d firewall
+	e browsing protection
+	f phishing protection
+	g vulnerability scan
+	h email protection
+	i asset management
+	j advanced device control
+	k spam protection
+	l web filtering
+	m application control
+	n patch management
+
+
+
+
+
+
+
+
+on premise - cloud = patch managemnet
+file activity monitor
+siem intigration??
+godeep ai
+sms notification
+
+
+
+

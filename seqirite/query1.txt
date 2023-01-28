@@ -1,0 +1,23 @@
+access control :
+	application management
+	device management
+	
+
+system config management:
+	Asset Management
+		Gives total visibility of hardware and software
+		running on endpoints, helps to track
+		software/hardware changes on endpoints
+
+Network management:
+	web filtering
+	network accessduration
+
+logging and monitoring:
+	detailed reporting system both in graph and charts form
+	
+encryption:
+	anti- ransomware encrypted backup
+	
+incident management:
+	ids/ips
